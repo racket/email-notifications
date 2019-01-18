@@ -1,0 +1,16 @@
+{
+  "name": "generate-email-message",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node entrypoint.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "strftime": "^0.10.0",
+    "tmp": "0.0.33"
+  }
+}
