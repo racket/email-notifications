@@ -1,4 +1,4 @@
-workflow "Publish to SNS topic on push" {
+workflow "Send email notification on push" {
   on = "push"
   resolves = ["Publish"]
 }
